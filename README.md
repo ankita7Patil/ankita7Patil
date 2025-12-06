@@ -1,74 +1,104 @@
-[# 💫 About Me:
-👋 Hello Everyone!<br><br>I’m Ankita Subhash Patil from Pune, pursuing B.Tech in Computer Science (AI). I’m passionate about Artificial Intelligence and love exploring new ideas that help me grow in this exciting field.<br><br>🔭 What I’m Working On<br><br>Deepening my knowledge in AI/ML and building impactful projects.<br><br>🤝 Seeking Help With<br><br>Advanced AI concepts and real-world hands-on experience.<br><br>🌱 Currently Learning<br><br>Machine learning, neural networks, and logical problem-solving.<br><br>💬 Ask Me About<br><br>AI, leadership, 3D printing, or anything tech + creativity!<br><br>🎤💃 Beyond Academics<br><br>I enjoy singing and dancing, and participating in competitions has boosted my confidence and sharpened my thinking.<br><br>🏅 Achievements<br><br>👩‍💼 Strong team leadership experience<br><br>🖨️ Completed a 3D printing course<br><br>⚡ Fun Fact<br><br>I’m a blend of tech, creativity, and curiosity, always ready to learn and explore more!
+<div align="center">
 
+# 👋 Hi, I'm Ankita Subhash Patil
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/ https://discord.gg/Cj8debYw) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ankita-patil-10b0732ab) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@AnkitaPatil23836) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:95ankita.s.patil@gmail.com) 
+### AI Enthusiast | B.Tech CSE (AI) | Machine Learning Explorer
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=flat&logo=streamlit&logoColor=white) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=flat&logo=web3.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ankita7Patil&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ankita7Patil&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ankita7Patil&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankita-patil-10b0732ab) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:95ankita.s.patil@gmail.com) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Cj8debYw) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@AnkitaPatil23836)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ankita7Patil&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ankita7Patil&limit=5&theme=radical&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=ankita7Patil&icon=4&color=1)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-](https://github.com/ankita7Patil
-
-deep research my github and linkdin profile then 
-
-this is my readme.md for my profile 
-
-# 💫 About Me:
-
-👋 Hello Everyone!<br><br>I’m Ankita Subhash Patil from Pune, pursuing B.Tech in Computer Science (AI). I’m passionate about Artificial Intelligence and love exploring new ideas that help me grow in this exciting field.<br><br>🔭 What I’m Working On<br><br>Deepening my knowledge in AI/ML and building impactful projects.<br><br>🤝 Seeking Help With<br><br>Advanced AI concepts and real-world hands-on experience.<br><br>🌱 Currently Learning<br><br>Machine learning, neural networks, and logical problem-solving.<br><br>💬 Ask Me About<br><br>AI, leadership, 3D printing, or anything tech + creativity!<br><br>🎤💃 Beyond Academics<br><br>I enjoy singing and dancing, and participating in competitions has boosted my confidence and sharpened my thinking.<br><br>🏅 Achievements<br><br>👩‍💼 Strong team leadership experience<br><br>🖨️ Completed a 3D printing course<br><br>⚡ Fun Fact<br><br>I’m a blend of tech, creativity, and curiosity, always ready to learn and explore more!
-
-## 🌐 Socials:
-
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/ https://discord.gg/Cj8debYw) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ankita-patil-10b0732ab) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@AnkitaPatil23836) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:95ankita.s.patil@gmail.com) 
-
-# 💻 Tech Stack:
-
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=flat&logo=streamlit&logoColor=white) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=flat&logo=web3.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
-
-# 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=ankita7Patil&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-
-![](https://nirzak-streak-stats.vercel.app/?user=ankita7Patil&theme=radical&hide_border=false)<br/>
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ankita7Patil&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=ankita7Patil&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 🔝 Top Contributed Repo
-
-![](https://github-contributor-stats.vercel.app/api?username=ankita7Patil&limit=5&theme=radical&combine_all_yearly_contributions=true)
+</div>
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=ankita7Patil&icon=4&color=1)](https://visitcount.itsvg.in)
+## 🚀 About Me
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+I'm a passionate Computer Science student specializing in Artificial Intelligence from Pune, India. I thrive on transforming innovative ideas into impactful AI solutions that solve real-world problems.
 
+- 🎓 Pursuing B.Tech in Computer Science (Artificial Intelligence)
+- 🔭 Currently working on advanced AI/ML projects and deepening my knowledge in neural networks
+- 🌱 Learning machine learning algorithms, deep learning architectures, and logical problem-solving
+- 🤝 Looking to collaborate on AI research and open-source ML projects
+- 💡 Interested in Natural Language Processing, Computer Vision, and Predictive Analytics
 
+### 🎯 Beyond Code
 
-create me a good readme give me txt file to downlod)
+- 🎤 **Performer**: Passionate about singing and dancing - competitions have sharpened my confidence and creative thinking
+- 👩‍💼 **Leader**: Strong experience in team leadership and project coordination
+- 🖨️ **Maker**: Completed comprehensive 3D printing course, blending tech with creativity
+- ⚡ **Philosophy**: A blend of technology, creativity, and curiosity - always ready to learn and explore!
+
+---
+
+## 💻 Technical Arsenal
+
+### Languages & Frameworks
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+### AI/ML & Data Science
+![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+
+### Web & Tools
+![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+### Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ankita7Patil&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
+
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=ankita7Patil&theme=radical&hide_border=false)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ankita7Patil&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+</div>
+
+---
+
+## 🏆 Achievements & Recognition
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ankita7Patil&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+
+### 🎖️ Highlights
+
+- 👩‍💼 Demonstrated strong leadership in team projects and academic initiatives
+- 🖨️ Successfully completed advanced 3D printing certification
+- 🎭 Active participant in inter-collegiate cultural competitions
+- 🤝 Collaborative contributor to open-source and academic projects
+
+---
+
+## 🔝 Featured Contributions
+
+![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=ankita7Patil&limit=5&theme=radical&combine_all_yearly_contributions=true)
+
+---
+
+## 💬 Let's Connect!
+
+I'm always excited to collaborate on innovative AI projects, discuss emerging technologies, or simply connect with fellow tech enthusiasts. Whether you're interested in machine learning, leadership experiences, or creative tech projects, feel free to reach out!
+
+### 📫 How to reach me:
+- 💼 LinkedIn: [Ankita Patil](https://www.linkedin.com/in/ankita-patil-10b0732ab)
+- 📧 Email: 95ankita.s.patil@gmail.com
+- 💬 Discord: Join my server [here](https://discord.gg/Cj8debYw)
+
+---
+
+<div align="center">
+
+### ✍️ Random Dev Wisdom
+
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+---
+
+![Profile Views](https://visitcount.itsvg.in/api?id=ankita7Patil&icon=4&color=1)
+
+**⭐ From [ankita7Patil](https://github.com/ankita7Patil) | Built with ❤️ and curiosity**
+
+</div>
