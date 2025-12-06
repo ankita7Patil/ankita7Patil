@@ -49,11 +49,14 @@ I'm a passionate Computer Science student specializing in Artificial Intelligenc
 
 <div align="center">
   
-<img src="https://github-readme-stats.vercel.app/api?username=ankita7Patil&theme=radical&hide_border=false&show_icons=true" alt="GitHub Stats" />
+<a href="https://github.com/ankita7Patil">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ankita7Patil&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankita7Patil&layout=compact&langs_count=8&theme=radical"/>
+</a>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ankita7Patil&theme=radical&hide_border=false" alt="GitHub Streak" />
+<br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankita7Patil&theme=radical&hide_border=false&layout=compact&langs_count=8" alt="Top Languages" />
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ankita7Patil&theme=radical)](https://github.com/ankita7Patil)
 
 </div>
 
