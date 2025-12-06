@@ -49,11 +49,11 @@ I'm a passionate Computer Science student specializing in Artificial Intelligenc
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ankita7Patil&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
+<img src="https://github-readme-stats.vercel.app/api?username=ankita7Patil&theme=radical&hide_border=false&show_icons=true" alt="GitHub Stats" />
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ankita7Patil&theme=radical&hide_border=false)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ankita7Patil&theme=radical&hide_border=false" alt="GitHub Streak" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ankita7Patil&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankita7Patil&theme=radical&hide_border=false&layout=compact&langs_count=8" alt="Top Languages" />
 
 </div>
 
