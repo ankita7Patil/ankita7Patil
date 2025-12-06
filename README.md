@@ -49,11 +49,11 @@ I'm a passionate Computer Science student specializing in Artificial Intelligenc
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ankita7Patil&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ankita7Patil&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=ankita7Patil&theme=radical&hide_border=false)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ankita7Patil&theme=radical&hide_border=false)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ankita7Patil&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ankita7Patil&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 </div>
 
@@ -97,7 +97,7 @@ I'm always excited to collaborate on innovative AI projects, discuss emerging te
 
 ---
 
-![Profile Views](https://visitcount.itsvg.in/api?id=ankita7Patil&icon=4&color=1)
+![Profile Views](https://komarev.com/ghpvc/?username=ankita7Patil&color=blueviolet&style=flat-square)
 
 **⭐ From [ankita7Patil](https://github.com/ankita7Patil) | Built with ❤️ and curiosity**
 
